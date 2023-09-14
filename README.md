@@ -10,6 +10,8 @@ In this project, we've harnessed the power of web scraping and exploratory data 
 * Dashboard
 * Why This Project Matters
 * Challenges and Learnings
+* Future Scope
+* Conclusion
 ## Key Project Components
 ## 1. Web Scraping
 We scrape data from the Tata 1mg website by using Python and Beautiful Soup to collect comprehensive information about homoeopathic medicines in a csv file. We scrape tables including product details, prices, benefit areas, customer reviews, and brand information. 
@@ -54,6 +56,13 @@ This project is a one-stop repository for those interested in entering the onlin
 2. Data was too big to retreive , several times we got disconnected with the company's server .
 3. Requirement of a stable network.
 4. Face off with the real life project was challenging but got our hands on the tools well.
+## Future Scope
+1. Real-time Data Updates
+2. User-Friendly Web Interface
+3. Machine Learning Predictions
+4. Integration with Inventory Management Systems
+## Conclusion
+In summary, this project has successfully demonstrated the power of web scraping and data analysis in providing valuable insights into the homoeopathic medicine market on the Tata 1mg platform. Through meticulous data extraction, cleaning, and exploratory analysis, we have uncovered essential information that can greatly benefit individuals planning to venture into the online medical store business.
 # Thank You 
 
 
