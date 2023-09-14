@@ -37,13 +37,6 @@ We scrape data from the Tata 1mg website by using Python and Beautiful Soup to c
 ![Screenshot 2023-09-06 222553](https://github.com/Monika-Singh12/1Mg-Homeopathic---project/assets/137449544/eea6d7e8-aa1b-4f9a-8125-289710239b81)
 ![Screenshot 2023-09-06 222501](https://github.com/Monika-Singh12/1Mg-Homeopathic---project/assets/137449544/5b6228ac-84ae-4703-a26c-99517e193b1b)
 ## Insights
-* Most sold medicine - Bakson’s fevo aid syrup
-* Most used ingredient – Belladonna
-* Most common specific area – Head
-* Most reviewed brand – Aaradhya sugar enterprises
-* Average MRP of medicine – 210 RS
-* Average cash generation per sale – 185 RS
-
 ![Screenshot 2023-09-06 223045](https://github.com/Monika-Singh12/1Mg-Homeopathic---project/assets/137449544/d7f33c18-70d9-43d2-b6f6-e6a36c1f03bb)
 ![Screenshot 2023-09-06 223105](https://github.com/Monika-Singh12/1Mg-Homeopathic---project/assets/137449544/43111ac3-ef88-49a5-9eb6-7eb99ec3010e)
 ## Dashboard
