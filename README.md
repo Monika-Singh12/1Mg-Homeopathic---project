@@ -1,3 +1,5 @@
+![download (1)](https://github.com/Monika-Singh12/1Mg-Homeopathic---project/assets/137449544/06e37232-549c-4066-821b-72f72a095aff)
+
 # Tata 1mg Homoeopathic Medicine Trends and Analysis
 ## Project Description 
 In this project, we've harnessed the power of web scraping and exploratory data analysis (EDA) to compile a comprehensive dataset of homoeopathic medicines available on the Tata 1mg platform. Our primary goal is to offer actionable insights for individuals planning to launch an online medical store in the homoeopathic medicine niche.
